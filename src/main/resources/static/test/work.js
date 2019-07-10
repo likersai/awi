@@ -1,0 +1,2 @@
+var atest = '';
+atest.replace();
